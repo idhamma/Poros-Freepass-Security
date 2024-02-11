@@ -10,7 +10,7 @@
 	- Cantumkan nama lengkap, NIM, prodi, serta username CTF pada Writeup
 	- Jelaskan secara jelas dan lengkap langkah-langkah dan script/program - yang anda gunakan untuk menyelsesaikan challange-challenge yang diberikan.
 	- Tidak diperbolehkan untuk hanya memberikan script. Peserta tidak akan diwawancarai apabila hanya memberikan script.
-5. Kumpulkan Writeup selambat lambatnya 19 Februari 2023 pukul 23.59 ke Google forms [berikut](https://forms.gle/U1uxJg1Dv6WSoi1CA "Google Form").
+5. Kumpulkan Writeup selambat lambatnya 19 Februari 2024 pukul 23.59 ke Google forms [berikut](https://forms.gle/U1uxJg1Dv6WSoi1CA "Google Form").
 
 
 ## Reference
