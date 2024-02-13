@@ -11,11 +11,11 @@
 	- Jelaskan secara jelas dan lengkap langkah-langkah dan script/program - yang anda gunakan untuk menyelsesaikan challange-challenge yang diberikan.
 	- Tidak diperbolehkan untuk hanya memberikan script. Peserta tidak akan diwawancarai apabila hanya memberikan script.
 5. Kumpulkan Writeup selambat lambatnya 19 Februari 2024 pukul 23.59 ke Google forms [berikut](https://forms.gle/U1uxJg1Dv6WSoi1CA "Google Form").
-
+6. Pilih waktu dan tanggal wawancara sesuai yang tersedia di google form
 
 ## Reference
 Biasakan diri dengan platform tersebut. Cari referensi mengenai istilah berikut,
-  - Wargames
+  	- Wargames
 	- CTF in Cyber Security
 	- Jeopardy CTF
 	- CTF Documentation
@@ -40,7 +40,7 @@ Pelajari dasar-dasar dari materi di kategori berikut,
 
 ## Deadline
   - 12 Februari, Platform Freepass dibuka
-	- 13 Februari 20.00 - 19 Februari 20.00, Freepass CTF dimulai
+	- 13 Februari 18.00 - 19 Februari 20.00, Freepass CTF dimulai
 	- 19 Februari 23.59, Deadline Upload WriteUp
 
 ## Questions
